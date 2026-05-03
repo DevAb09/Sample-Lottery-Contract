@@ -56,5 +56,6 @@ script/
 
 ```bash
 forge test
-Build
+```
+## Build
 forge build
